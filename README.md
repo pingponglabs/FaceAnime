@@ -1,2 +1,3 @@
 # FaceAnime
-The source code and the testing dataset for FaceAnime
+The source code (pytorch) for our project: Image-to-Video Generation via 3D Facial Dynamics. 
+
