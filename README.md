@@ -7,6 +7,6 @@ The face video folders with poor quality are removed firstly, 2447 video folders
 
 
 # Usage:
-1. Download the files at URL: URL: https://pan.baidu.com/s/1CVRdw5JaMrtKzA8BXmzZuA  Password: zlcp
+1. Download the files at URL: https://pan.baidu.com/s/1CVRdw5JaMrtKzA8BXmzZuA  Password: zlcp
 2. Extract the files under the root folder.
 3. Run the main script "main_paraltrain_withMask_300vw_idloss" for training, all the implementation details are contained in this script. 
